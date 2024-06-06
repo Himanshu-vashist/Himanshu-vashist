@@ -1,58 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="Project1.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
-    <nav class="navbar sticky-top bg-body-tertiary">
-        <div>
-            <div class="text-nowrap bg-body-secondary border" style="width: 8rem;">
-                Securely store your Memories : Your image, our Commitment to Privacy And protection
-            </div>
-        </div>
+- 🔭 I’m currently working on [Wandelust](https://github.com/Himanshu-vashist/delta-project)
 
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                <img src="https://imgs.search.brave.com/dUawG_wP9-G11AkXmqAjkbouD0oO2usEU30BtiCzPpI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzUzLzQ4LzM1/LzM2MF9GXzQ1MzQ4/MzU3MV8zZjA0MmZr/M2VXQ3JtdzA1V2Zs/WnlJZTYwV3YyMFhp/TS5qcGc" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-                Gallary Guard
-            </a>
-        </div>
-    </nav>
+- 🌱 I’m currently learning **React from namaste react course**
 
-    <div class="row row-cols-1 row-cols-md-3 g-4">
-        <!-- Cards here -->
-    </div>
+- 📫 How to reach me **imhimanshuvashist@gmail.com**
 
-    <figure class="text-center">
-        <blockquote class="blockquote">
-            <p>"Life is like a camera. Just focus on what's important, capture the good times, develop from the negatives, and if things don't work out, take another shot."</p>
-        </blockquote>
-        <figcaption class="blockquote-footer">
-            Unknown
-        </figcaption>
-    </figure>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vashist-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vashist-himanshu" height="30" width="40" /></a>
+</p>
 
-    <div class="class1">
-        <div class="row mb-3">
-            <label for="inputEmail" class="col-sm-7 col-form-label">Email</label>
-            <div class="col-sm-8">
-                <input type="email" class="form-control" id="inputEmail3">
-            </div>
-        </div>
-        <div class="row mb-3">
-            <label for="inputPassword" class="col-sm-8 col-form-label">Password</label>
-            <div class="col-sm-8">
-                <input type="password" class="form-control" id="inputPassword3">
-            </div>
-        </div>
-        <button type="submit" class="btn btn-primary">Sign in</button>
-        <button type="button" class="btn btn-primary">Sign up</button>
-    </div>
-
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
