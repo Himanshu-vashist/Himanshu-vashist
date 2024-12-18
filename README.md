@@ -38,7 +38,12 @@
 
 ###
 
-<p align="left">🌐 Check Out My Personal Website<br>Discover more about my work and projects on my portfolio website: shadwal.site 🚀</p>
+<p align="left">
+  🌐 Check Out My Personal Website<br>
+  Discover more about my work and projects on my portfolio website: 
+  <a href="https://himanshu-vznu.onrender.com/" target="_blank">Check it now</a> 🚀
+</p>
+
 
 ###
 
@@ -105,9 +110,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
+
 
 ###
 
